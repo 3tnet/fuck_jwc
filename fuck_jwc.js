@@ -1,6 +1,5 @@
 var iframeDoc = document.querySelector("#iframeautoheight").contentWindow.document;
 var options = iframeDoc.querySelector("#pjkc").getElementsByTagName("option");
-alert(options.length);
 var j=0;
 var t = setInterval(function (){
 	if(j>=options.length-1){
