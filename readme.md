@@ -18,7 +18,7 @@ var t = setInterval(function (){
 		clearInterval(t);
 	}
 	var iframeDoc = document.querySelector("#iframeautoheight").contentWindow.document;
-	var selects = document.querySelector("#iframeautoheight").contentWindow.document.querySelectorAll("#divJs select");
+	var selects = iframeDoc.querySelectorAll("#divJs select");
 	for (var i in selects){
 		selects[i].value="优秀";
 	}
