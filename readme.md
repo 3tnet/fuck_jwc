@@ -5,9 +5,10 @@
 2. 点击“教学质量评价”下的第一门课程
 <img src="https://raw.githubusercontent.com/ty666/fuck_jwc/master/images/1.png" />
 
-3. 按 `f12` 键打开开发者工具，单击 `Console` 选项卡。
+3. 按 `f12` 键 ( `mac` 用户使用快捷键 `command + option(alt) + i` ) 打开开发者工具，再单击 `Console` 选项卡。
+<img src="https://raw.githubusercontent.com/ty666/fuck_jwc/master/images/2.png" />
 
-4. 将一下代码粘贴到 `Console` 按下回车执行
+4. 将以下代码粘贴到 `Console` 按下回车执行
 ```javascript
 var iframeDoc = document.querySelector("#iframeautoheight").contentWindow.document;
 var options = iframeDoc.querySelector("#pjkc").getElementsByTagName("option");
@@ -27,4 +28,4 @@ var t = setInterval(function (){
 	
 }, 2000);
 ```
-5. 享受愉悦的过程。
+5. 享受愉悦的过程。（＾∀＾）
