@@ -28,4 +28,6 @@ var t = setInterval(function (){
 	
 }, 2000);
 ```
+<img src="https://raw.githubusercontent.com/ty666/fuck_jwc/master/images/3.png" />
+
 5. 享受愉悦的过程。（＾∀＾）
