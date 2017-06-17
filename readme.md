@@ -16,6 +16,7 @@ var j=0;
 var t = setInterval(function (){
 	if(j>=options.length-1){
 		clearInterval(t);
+		return;
 	}
 	var iframeDoc = document.querySelector("#iframeautoheight").contentWindow.document;
 	var selects = iframeDoc.querySelectorAll("#divJs select");
