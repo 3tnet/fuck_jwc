@@ -1,6 +1,6 @@
 # fuck_jwc(教学质量自动评价)
 
-#### 教学质量自动评价 | [师德自动评价](https://github.com/tw1997/fuck_jwc#师德自动评价--教学质量自动评价)
+#### 教学质量自动评价 | [师德自动评价](https://github.com/ty666/fuck_jwc#师德自动评价--教学质量自动评价)
 1. 登陆hnnu教务处
 
 2. 点击“教学质量评价”下的第一门课程
@@ -34,7 +34,7 @@ var t = setInterval(function (){
 
 * * *
 
-#### 师德自动评价 | [教学质量自动评价](https://github.com/tw1997/fuck_jwc#教学质量自动评价--师德自动评价)
+#### 师德自动评价 | [教学质量自动评价](https://github.com/ty666/fuck_jwc#教学质量自动评价--师德自动评价)
 1. 登陆hnnu教务处
 
 2. 点击“师德评价”
